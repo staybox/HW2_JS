@@ -1,4 +1,4 @@
-## LoftSchool example project
+## Домашнее задание №2 (объекты и массивы) LoftSchool
 
 ### Доступные команды
 
